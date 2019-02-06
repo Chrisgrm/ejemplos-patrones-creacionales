@@ -21,8 +21,11 @@ Estructurales:
 Adapter: https://github.com/Chrisgrm/ejemplos-patrones-creacionales/tree/master/Adapter
 
 composite : https://github.com/Chrisgrm/ejemplos-patrones-creacionales/tree/master/Patron%20Composite
+
 decorator: https://github.com/Chrisgrm/ejemplos-patrones-creacionales/tree/master/Patron%20Decorator
+
 fachada: https://github.com/Chrisgrm/ejemplos-patrones-creacionales/tree/master/Patron%20Fachada
+
 flyweightHSADVSAVDVASVDIVDIAS//TOCA PONER LINK :V
 
 proxy: https://github.com/Chrisgrm/ejemplos-patrones-creacionales/tree/master/Patron%20Proxy

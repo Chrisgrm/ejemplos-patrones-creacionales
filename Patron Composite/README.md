@@ -16,3 +16,7 @@ Cliente: manipula objetos de la composición a través de Component.
 
 Los clientes usan la interfaz de Component para interactuar con objetos en la estructura Composite. Si el receptor es una hoja, la interacción es directa. Si es un Composite, se debe llegar a los objetos “hijos”, y puede llevar a utilizar operaciones adicionales.
 
+Ejemplo
+
+https://github.com/Chrisgrm/ejemplos-patrones-creacionales/blob/master/Patron%20Composite/composite.py
+

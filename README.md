@@ -26,6 +26,6 @@ decorator: https://github.com/Chrisgrm/ejemplos-patrones-creacionales/tree/maste
 
 fachada: https://github.com/Chrisgrm/ejemplos-patrones-creacionales/tree/master/Patron%20Fachada
 
-flyweightHSADVSAVDVASVDIVDIAS//TOCA PONER LINK :V
+flyweight: https://github.com/Chrisgrm/ejemplos-patrones-creacionales/tree/master/Patron%20Flyweight
 
 proxy: https://github.com/Chrisgrm/ejemplos-patrones-creacionales/tree/master/Patron%20Proxy

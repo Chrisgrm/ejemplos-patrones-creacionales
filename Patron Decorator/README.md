@@ -12,3 +12,7 @@ Decorator: mantiene una referencia al objeto Component y define una interface de
 DecoratorConcreto: adiciona la responsabilidad al Component.
 
 Decorator propaga los mensajes a su objeto Component. Opcionalmente puede realizar operaciones antes y después de enviar el mensaje.
+
+Ejemplo
+
+https://github.com/Chrisgrm/ejemplos-patrones-creacionales/blob/master/Patron%20Decorator/adapter.py

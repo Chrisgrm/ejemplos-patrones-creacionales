@@ -2,6 +2,8 @@
 
 -Carlos Andres Ñañez Molina 20152020030
 
+-Einar Nayib Moreno Bustos 20152020401
+
 Creacionales:
 
 Abstract Factory: https://github.com/Chrisgrm/ejemplos-patrones-creacionales/tree/master/AbstractFactory

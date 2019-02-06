@@ -14,3 +14,7 @@ DefaultFacadeImpl: Representa la implementación de IFacade y se encarga de comu
 
 Subsystems: Representa módulos o subsistemas que exponen interfaces para comunicarse con ellos.
 
+Ejemplos
+
+https://github.com/Chrisgrm/ejemplos-patrones-creacionales/blob/master/Patron%20Fachada/facade.py
+

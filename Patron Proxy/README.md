@@ -12,3 +12,7 @@ Proxy: mantiene una referencia al objeto real. Controla la creación y acceso a 
 RealSubject: define el objeto real representado por el Proxy.
 
 Cliente: solicita el servicio a través del Proxy y es éste quién se comunica con el RealSubject.
+
+Ejemplo
+
+https://github.com/Chrisgrm/ejemplos-patrones-creacionales/blob/master/Patron%20Proxy/proxy.py
